@@ -1,4 +1,4 @@
-Hi! Checkout my [portfolio.](https://github.com/cats256/portfolio)
+Hi! Check out my [portfolio.](https://github.com/cats256/portfolio)
 
 <div>
     Technologies:
@@ -11,5 +11,6 @@ Hi! Checkout my [portfolio.](https://github.com/cats256/portfolio)
     <span style="color: #ffdd48;">C++</span>,
     <span style="color: #ffdd48;">Ubuntu</span>
 </div>
+
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=cats256)](https://github.com/anuraghazra/github-readme-stats)
