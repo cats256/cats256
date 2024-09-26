@@ -1,6 +1,6 @@
 Hi!
 
-**Company's account: https://github.com/willbui256resi**
+# **Company's account: https://github.com/willbui256resi**
 
 Languages and Tools: JavaScript/TypeScript, Python, C++, SQL, HTML, CSS, MongoDB, Git and Linux/Ubuntu
 
