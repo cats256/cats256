@@ -1,5 +1,7 @@
-Hi!
+<!--
+GitHub accounts:
+- https://github.com/willbui256resi (2024 intern account)
+- https://github.com/catswe (other account)
 
-# https://github.com/willbui256resi (2024 intern account)
-# https://github.com/catswe (other account)
-# 2025 intern account isn't available since we don't use GitHub
+Note: 2025 intern account not available since GitHub was not used.
+-->
